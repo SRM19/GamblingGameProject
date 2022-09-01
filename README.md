@@ -11,8 +11,11 @@ Username2: Player2, Password: Password2
 Assumptions:
 User:
 Username is unique value
+
 Two players exist in the system: Player1, Player2
+
 User can stake only whole numbers
+
 User can bet on numbers 0-9
 
 Account:
