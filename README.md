@@ -1,4 +1,4 @@
-﻿Development Env: 
+Development Env: 
 Visual Studio 2022
 .NET Core 6
 
@@ -6,17 +6,23 @@ Database:
 Sqlite
 
 Username1: Player1, Password: Password1
+
 Username2: Player2, Password: Password2
+
 
 Assumptions:
 User:
 Username is unique value
+
 Two players exist in the system: Player1, Player2
+
 User can stake only whole numbers
+
 User can bet on numbers 0-9
 
 Account:
 Intial account balance for each user will be 10000 points
+
 
 Steps:
 1: Launch the service from Visual Studio start up or from dotnet CLI
