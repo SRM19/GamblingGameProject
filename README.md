@@ -33,7 +33,7 @@ Steps:
 
 2: In the Swagger UI, make a POST request to Auth resource using the default user credentials
 
-3: On successfull login, a token will be received the response
+3: On successfull login, a token will be received in the response
 
 4: Copy the generated token, click on Authorize button and paste the token along with 'Bearer' keyword
 
