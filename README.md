@@ -11,7 +11,9 @@ Username2: Player2, Password: Password2
 
 
 Assumptions:
+
 User:
+
 Username is unique value
 
 Two players exist in the system: Player1, Player2
@@ -21,10 +23,12 @@ User can stake only whole numbers
 User can bet on numbers 0-9
 
 Account:
+
 Intial account balance for each user will be 10000 points
 
 
 Steps:
+
 1: Launch the service from Visual Studio start up or from dotnet CLI
 
 2: In the Swagger UI, make a POST request to Auth resource using the default user credentials
